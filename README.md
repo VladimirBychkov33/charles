@@ -7,5 +7,8 @@
 ### [Решение](https://drive.google.com/drive/folders/1vE3wz3F824jIkZKvUMDw8kwXMx8nIv4a?usp=drive_link)
 
 ![Header](https://github.com/VladimirBychkov33/charles/blob/main/charles%20-Map%20Local.png)
+
+---
+
 ![Header](https://github.com/VladimirBychkov33/charles/blob/main/charles%20-%20Rewrite.png)
 
